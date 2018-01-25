@@ -19,7 +19,6 @@ A 14-week [course](https://create.piktochart.com/output/23658456-data-science-pe
 
 A 3-day [workshop](https://mymagic.my/course/fast-business-insights-data/) in November, 2017 hosted by the Malaysian Global Innovation & Creativity Center (MaGIC)
 
-1. Gentle introduction to Python using Jupyter Notebook
-2. Intro to data visualization in Python
+1.Intro to data visualization in Python
 
 
