@@ -1,8 +1,9 @@
 # Data Science Workshop Materials
 
-@author [Nadav Rindler](https://github.com/nrindler) Visit my [data science blog](https://nrindler.github.io/)!
+@author [Nadav Rindler](https://github.com/nrindler) 
+Visit my [data science blog](https://nrindler.github.io/)!
 
-Original content, developed for (DataViz My)[http://www.dataviz.my/]
+Original content, developed for [DataViz My](http://www.dataviz.my/)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
@@ -19,6 +20,6 @@ A 14-week [course](https://create.piktochart.com/output/23658456-data-science-pe
 
 A 3-day [workshop](https://mymagic.my/course/fast-business-insights-data/) in November, 2017 hosted by the Malaysian Global Innovation & Creativity Center (MaGIC)
 
-1.Intro to data visualization in Python
+1. Intro to data visualization in Python
 
 
